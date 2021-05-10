@@ -10,8 +10,8 @@ Module 9
 The following are the results for June and December's weather
 
 
-![June_weather](Resources/June_weather.png)
-![December_weather](Resources/December_weather.png)
+![June_weather](Resources/June_weather.PNG)
+![December_weather](Resources/December_weather.PNG)
 - The difference between June and December's temperature averages is only 4 degrees, and the maximum and minimum temperatures are all relatively close in comparison. With the overall maximum temperature of 85 degrees and June and overall minimum temperature of 56 degrees in December, it can be concluded that the ice cream shop year round could be a viable business. 
 
 ## Summary
